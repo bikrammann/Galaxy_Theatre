@@ -7,6 +7,10 @@ from selenium import webdriver
 data = {}
 sortedJson = []
 
+# Note: This program will work without phantomjs.exe as the current page
+# that we are processing is static(You can use requests library to get the page contents).
+# However there are other pages on the website
+# where content is loaded via JavaScript for them you will need to download phantomjs.exe 
 browser = webdriver.PhantomJS("./phantomjs.exe")
 browser.get('http://www.galaxytheatres.com/Browsing/Cinemas/Details/3')
 
