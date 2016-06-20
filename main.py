@@ -45,7 +45,7 @@ sortedData = sorted(data.values(), key=itemgetter('date'))
 for i,values in enumerate(sortedData):
     sortedJson.update({i:{'name': values['name'],
                        'timing': values['timing'],
-                       'date': datetime.fromtimestamp(int(values['date'])).strftime("%d %B %Y")
+                       'date': str(datetime.fromtimestamp(int(values['date'])).strftime("%d %B %Y"))
                        }})
 
 # Writing data to json file
