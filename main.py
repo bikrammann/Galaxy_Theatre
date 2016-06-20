@@ -5,12 +5,12 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 
 data = {}
-sortedJson = []
+sortedJson = {}
 
 # Note: This program will work without phantomjs.exe as the current page
 # that we are processing is static(You can use requests library to get the page contents).
 # However there are other pages on the website
-# where content is loaded via JavaScript for them you will need to download phantomjs.exe 
+# where content is loaded via JavaScript for them you will need to download phantomjs.exe
 browser = webdriver.PhantomJS("./phantomjs.exe")
 browser.get('http://www.galaxytheatres.com/Browsing/Cinemas/Details/3')
 
@@ -42,11 +42,11 @@ for i in range(movieTotal):
 sortedData = sorted(data.values(), key=itemgetter('date'))
 
 # Creating List with Dictionaries sorted by Date
-for values in sortedData:
-    sortedJson.append({'name': values['name'],
+for i,values in enumerate(sortedData):
+    sortedJson.update({i:{'name': values['name'],
                        'timing': values['timing'],
                        'date': datetime.fromtimestamp(int(values['date'])).strftime("%d %B %Y")
-                       })
+                       }})
 
 # Writing data to json file
 with open('movie.json', 'w') as f:
