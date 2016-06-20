@@ -1,0 +1,202 @@
+{
+  "0": {
+    "date": "07 July 2016",
+    "name": "The Secret Life Of Pets",
+    "timing": [
+      "06:00 PM",
+      "08:45 PM",
+      "09:00 PM"
+    ]
+  },
+  "1": {
+    "date": "07 July 2016",
+    "name": "The Secret Life Of Pets 3D",
+    "timing": [
+      "06:15 PM"
+    ]
+  },
+  "2": {
+    "date": "17 June 2016",
+    "name": "Finding Dory",
+    "timing": [
+      "07:00 PM",
+      "07:20 PM",
+      "07:40 PM",
+      "10:00 PM",
+      "10:30 PM"
+    ]
+  },
+  "3": {
+    "date": "17 June 2016",
+    "name": "Finding Dory 3D",
+    "timing": [
+      "10:15 PM"
+    ]
+  },
+  "4": {
+    "date": "17 June 2016",
+    "name": "Central Intelligence (Beer & Wine)",
+    "timing": [
+      "06:55 PM",
+      "07:25 PM",
+      "09:55 PM",
+      "10:20 PM"
+    ]
+  },
+  "5": {
+    "date": "17 June 2016",
+    "name": "The Conjuring 2 (Beer & Wine)",
+    "timing": [
+      "07:00 PM",
+      "10:00 PM"
+    ]
+  },
+  "6": {
+    "date": "17 June 2016",
+    "name": "Warcraft (Beer & Wine)",
+    "timing": [
+      "07:10 PM",
+      "10:10 PM"
+    ]
+  },
+  "7": {
+    "date": "17 June 2016",
+    "name": "Warcraft DBOX (Beer & Wine)",
+    "timing": [
+      "07:10 PM",
+      "10:10 PM"
+    ]
+  },
+  "8": {
+    "date": "17 June 2016",
+    "name": "Me Before You",
+    "timing": [
+      "07:15 PM",
+      "10:10 PM"
+    ]
+  },
+  "9": {
+    "date": "17 June 2016",
+    "name": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "timing": [
+      "06:50 PM",
+      "09:45 PM"
+    ]
+  },
+  "10": {
+    "date": "17 June 2016",
+    "name": "Alice Through The Looking Glass",
+    "timing": [
+      "07:05 PM",
+      "10:05 PM"
+    ]
+  },
+  "11": {
+    "date": "17 June 2016",
+    "name": "X-Men: Apocalypse",
+    "timing": [
+      "09:50 PM"
+    ]
+  },
+  "12": {
+    "date": "17 June 2016",
+    "name": "The Angry Birds Movie",
+    "timing": [
+      "09:35 PM"
+    ]
+  },
+  "13": {
+    "date": "18 September 2016",
+    "name": "Dr. Strangelove",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "14": {
+    "date": "23 June 2016",
+    "name": "Independence Day: Resurgence",
+    "timing": [
+      "08:00 PM",
+      "10:30 PM"
+    ]
+  },
+  "15": {
+    "date": "23 June 2016",
+    "name": "Independence Day: Resurgence 3D",
+    "timing": [
+      "08:15 PM"
+    ]
+  },
+  "16": {
+    "date": "23 October 2016",
+    "name": "The Shining",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "17": {
+    "date": "24 July 2016",
+    "name": "Planet of the Apes",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "18": {
+    "date": "26 June 2016",
+    "name": "Willy Wonka and the Chocolate Factory",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "19": {
+    "date": "28 August 2016",
+    "name": "The King and I",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "20": {
+    "date": "28 June 2016",
+    "name": "RiffTrax Live:  MST3K Reunion",
+    "timing": [
+      "08:00 PM"
+    ]
+  },
+  "21": {
+    "date": "30 June 2016",
+    "name": "The BFG",
+    "timing": [
+      "07:15 PM",
+      "10:00 PM"
+    ]
+  },
+  "22": {
+    "date": "30 June 2016",
+    "name": "The BFG 3D",
+    "timing": [
+      "07:00 PM",
+      "09:45 PM"
+    ]
+  },
+  "23": {
+    "date": "30 June 2016",
+    "name": "The Legend Of Tarzan",
+    "timing": [
+      "06:15 PM",
+      "09:00 PM"
+    ]
+  },
+  "24": {
+    "date": "30 June 2016",
+    "name": "The Legend Of Tarzan 3D",
+    "timing": [
+      "06:00 PM",
+      "08:45 PM"
+    ]
+  }
+}
