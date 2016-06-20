@@ -1,9 +1,11 @@
-import json
+import json, time
+from datetime import datetime
 from operator import itemgetter
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
 data = {}
+sortedJson = []
 
 browser = webdriver.PhantomJS("./phantomjs.exe")
 browser.get('http://www.galaxytheatres.com/Browsing/Cinemas/Details/3')
@@ -22,6 +24,7 @@ for i in range(movieTotal):
     # Get date when move is showing
     movieDate = gData[i].find('h4', {'class': 'session-date'}).text
     movieDate = movieDate.split(',')[1].strip()
+    movieDate = time.mktime(datetime.strptime(movieDate, "%d %B %Y").timetuple())
 
     # Get movie Timings
     Timing = list(gData[i].find('div', {'class': 'session-times'}))
@@ -33,11 +36,14 @@ for i in range(movieTotal):
 
 # Sorting dictionary by date
 sortedData = sorted(data.values(), key=itemgetter('date'))
-print(sortedData)
 
-# Converting [ {}, {} ] to { {}, {} }
-jsonData = {i:item for i, item in enumerate(sortedData)}
+# Creating List with Dictionaries sorted by Date
+for values in sortedData:
+    sortedJson.append({'name': values['name'],
+                       'timing': values['timing'],
+                       'date': datetime.fromtimestamp(int(values['date'])).strftime("%d %B %Y")
+                       })
 
-# Writing dictionary to .json file
+# Writing data to json file
 with open('movie.json', 'w') as f:
-    json.dump(jsonData, f, indent=2)
+    json.dump(sortedJson, f, indent=2)
