@@ -22,6 +22,11 @@ gData = soup.find_all('div', {'class': 'film-showtimes'})
 movieTotal = len([movie.text for movie in soup.find_all('h3', {'class': 'film-title'})])
 
 for i in range(movieTotal):
+    # Get movie image
+    image = gData[i].findPreviousSibling('div').find_all('div')[1].get('style')
+    startPos = image.find("//") + 2
+    imageUrl = image[startPos:-2]
+
     # Get movie name
     movieTitle = gData[i].find('h3', {'class': 'film-title'}).text
 
@@ -36,7 +41,7 @@ for i in range(movieTotal):
     movieTiming = [time.find('time').text for time in Timing]
 
     # Storing everything in json format
-    data.update({i: {'name': movieTitle, 'date': movieDate, 'timing': movieTiming}})
+    data.update({i: {'name': movieTitle, 'date': movieDate, 'timing': movieTiming, 'url':imageUrl}})
 
 # Sorting dictionary by date
 sortedData = sorted(data.values(), key=itemgetter('date'))
@@ -45,6 +50,7 @@ sortedData = sorted(data.values(), key=itemgetter('date'))
 for i,values in enumerate(sortedData):
     sortedJson.update({i:{'name': values['name'],
                        'timing': values['timing'],
+                       'url': values['url'],
                        'date': str(datetime.fromtimestamp(int(values['date'])).strftime("%d %B %Y"))
                        }})
 

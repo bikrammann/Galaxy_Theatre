@@ -1,188 +1,274 @@
 {
   "0": {
-    "date": "19 June 2016",
-    "name": "Finding Dory",
+    "date": "13 July 2016",
+    "name": "The Secret Life Of Pets",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003238?width=121&height=180",
     "timing": [
-      "10:00 PM",
-      "10:30 PM"
+      "08:20 PM",
+      "08:55 PM",
+      "10:45 PM"
     ]
   },
   "1": {
-    "date": "19 June 2016",
-    "name": "Finding Dory 3D",
+    "date": "13 July 2016",
+    "name": "The Secret Life Of Pets 3D",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003241?width=121&height=180",
     "timing": [
-      "10:15 PM"
+      "09:30 PM"
     ]
   },
   "2": {
-    "date": "19 June 2016",
-    "name": "Central Intelligence (Beer & Wine)",
+    "date": "13 July 2016",
+    "name": "Mike and Dave Need Wedding Dates (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003318?width=121&height=180",
     "timing": [
-      "09:55 PM",
-      "10:20 PM"
+      "07:30 PM",
+      "07:35 PM",
+      "10:30 PM",
+      "10:35 PM"
     ]
   },
   "3": {
-    "date": "19 June 2016",
-    "name": "The Conjuring 2 (Beer & Wine)",
+    "date": "13 July 2016",
+    "name": "The BFG",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003247?width=121&height=180",
     "timing": [
-      "10:00 PM"
+      "09:55 PM"
     ]
   },
   "4": {
-    "date": "19 June 2016",
-    "name": "Warcraft (Beer & Wine)",
+    "date": "13 July 2016",
+    "name": "The Legend Of Tarzan (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003285?width=121&height=180",
     "timing": [
-      "10:10 PM"
-    ]
-  },
-  "5": {
-    "date": "19 June 2016",
-    "name": "Warcraft DBOX (Beer & Wine)",
-    "timing": [
-      "10:10 PM"
-    ]
-  },
-  "6": {
-    "date": "19 June 2016",
-    "name": "Me Before You",
-    "timing": [
-      "10:10 PM"
-    ]
-  },
-  "7": {
-    "date": "19 June 2016",
-    "name": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-    "timing": [
-      "09:45 PM"
-    ]
-  },
-  "8": {
-    "date": "19 June 2016",
-    "name": "Alice Through The Looking Glass",
-    "timing": [
-      "10:05 PM"
-    ]
-  },
-  "9": {
-    "date": "19 June 2016",
-    "name": "X-Men: Apocalypse",
-    "timing": [
-      "09:50 PM"
-    ]
-  },
-  "10": {
-    "date": "19 June 2016",
-    "name": "The Angry Birds Movie",
-    "timing": [
-      "09:35 PM"
-    ]
-  },
-  "11": {
-    "date": "23 June 2016",
-    "name": "Independence Day: Resurgence",
-    "timing": [
-      "08:00 PM",
+      "07:30 PM",
       "10:30 PM"
     ]
   },
-  "12": {
-    "date": "23 June 2016",
-    "name": "Independence Day: Resurgence 3D",
+  "5": {
+    "date": "13 July 2016",
+    "name": "The Legend Of Tarzan DBox (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003286?width=121&height=180",
     "timing": [
-      "08:15 PM"
+      "07:30 PM",
+      "10:30 PM"
     ]
   },
-  "13": {
-    "date": "26 June 2016",
-    "name": "Willy Wonka and the Chocolate Factory",
+  "6": {
+    "date": "13 July 2016",
+    "name": "The Purge: Election Year (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003290?width=121&height=180",
     "timing": [
-      "02:00 PM",
-      "07:00 PM"
+      "07:45 PM",
+      "10:25 PM"
     ]
   },
-  "14": {
-    "date": "28 June 2016",
-    "name": "RiffTrax Live:  MST3K Reunion",
+  "7": {
+    "date": "13 July 2016",
+    "name": "Independence Day: Resurgence",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003171?width=121&height=180",
     "timing": [
-      "08:00 PM"
+      "07:10 PM",
+      "10:10 PM"
     ]
   },
-  "15": {
-    "date": "30 June 2016",
-    "name": "The BFG",
+  "8": {
+    "date": "13 July 2016",
+    "name": "Central Intelligence",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003218?width=121&height=180",
     "timing": [
-      "07:15 PM",
+      "07:25 PM",
+      "10:35 PM"
+    ]
+  },
+  "9": {
+    "date": "13 July 2016",
+    "name": "Finding Dory",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003217?width=121&height=180",
+    "timing": [
+      "07:10 PM",
+      "09:35 PM",
       "10:00 PM"
     ]
   },
-  "16": {
-    "date": "30 June 2016",
-    "name": "The BFG 3D",
+  "10": {
+    "date": "14 July 2016",
+    "name": "Ghostbusters (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003304?width=121&height=180",
+    "timing": [
+      "07:15 PM",
+      "07:30 PM",
+      "10:00 PM",
+      "10:15 PM"
+    ]
+  },
+  "11": {
+    "date": "14 July 2016",
+    "name": "Ghostbusters 3D",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003298?width=121&height=180",
     "timing": [
       "07:00 PM",
       "09:45 PM"
     ]
   },
-  "17": {
-    "date": "30 June 2016",
-    "name": "The Legend Of Tarzan",
+  "12": {
+    "date": "15 July 2016",
+    "name": "Ghostbusters",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003294?width=121&height=180",
     "timing": [
-      "06:15 PM",
-      "09:00 PM"
+      "10:30 AM",
+      "11:00 AM",
+      "01:30 PM",
+      "02:00 PM",
+      "04:30 PM",
+      "05:00 PM",
+      "07:30 PM",
+      "08:00 PM",
+      "10:15 PM"
+    ]
+  },
+  "13": {
+    "date": "15 July 2016",
+    "name": "Ghostbusters 3D (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003305?width=121&height=180",
+    "timing": [
+      "09:30 AM",
+      "12:30 PM",
+      "03:30 PM",
+      "06:30 PM",
+      "09:30 PM"
+    ]
+  },
+  "14": {
+    "date": "15 July 2016",
+    "name": "Ghostbusters DBox (Beer & Wine)",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003306?width=121&height=180",
+    "timing": [
+      "10:00 AM",
+      "01:00 PM",
+      "04:00 PM",
+      "07:00 PM",
+      "10:00 PM"
+    ]
+  },
+  "15": {
+    "date": "21 July 2016",
+    "name": "Star Trek Beyond",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003257?width=121&height=180",
+    "timing": [
+      "07:15 PM",
+      "10:05 PM"
+    ]
+  },
+  "16": {
+    "date": "21 July 2016",
+    "name": "Star Trek Beyond 3D",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003264?width=121&height=180",
+    "timing": [
+      "07:00 PM",
+      "09:50 PM"
+    ]
+  },
+  "17": {
+    "date": "24 July 2016",
+    "name": "Planet of the Apes",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002929?width=121&height=180",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
     ]
   },
   "18": {
-    "date": "30 June 2016",
-    "name": "The Legend Of Tarzan 3D",
+    "date": "25 July 2016",
+    "name": "Batman: The Killing Joke",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003308?width=121&height=180",
     "timing": [
-      "06:00 PM",
-      "08:45 PM"
+      "07:30 PM",
+      "10:00 PM"
     ]
   },
   "19": {
-    "date": "07 July 2016",
-    "name": "The Secret Life Of Pets",
+    "date": "26 July 2016",
+    "name": "Lincoln Center: Alvin Ailey incl. Revelations",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002613?width=121&height=180",
     "timing": [
-      "06:00 PM",
-      "08:45 PM",
-      "09:00 PM"
+      "07:00 PM"
     ]
   },
   "20": {
-    "date": "07 July 2016",
-    "name": "The Secret Life Of Pets 3D",
+    "date": "28 July 2016",
+    "name": "Jason Bourne",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003273?width=121&height=180",
     "timing": [
-      "06:15 PM"
+      "07:00 PM",
+      "07:15 PM",
+      "09:50 PM",
+      "10:05 PM"
     ]
   },
   "21": {
-    "date": "24 July 2016",
-    "name": "Planet of the Apes",
+    "date": "02 August 2016",
+    "name": "Lincoln Center: Ballet Hispanico feat. Carmen",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002614?width=121&height=180",
     "timing": [
-      "02:00 PM",
       "07:00 PM"
     ]
   },
   "22": {
-    "date": "28 August 2016",
-    "name": "The King and I",
+    "date": "09 August 2016",
+    "name": "Lincoln Center: SF Ballet's Romeo & Juliet",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002612?width=121&height=180",
     "timing": [
-      "02:00 PM",
       "07:00 PM"
     ]
   },
   "23": {
-    "date": "18 September 2016",
-    "name": "Dr. Strangelove",
+    "date": "18 August 2016",
+    "name": "RiffTrax Live: Mothra",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003272?width=121&height=180",
+    "timing": [
+      "08:00 PM"
+    ]
+  },
+  "24": {
+    "date": "28 August 2016",
+    "name": "The King and I",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002930?width=121&height=180",
     "timing": [
       "02:00 PM",
       "07:00 PM"
     ]
   },
-  "24": {
+  "25": {
+    "date": "18 September 2016",
+    "name": "Dr. Strangelove",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002931?width=121&height=180",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "26": {
+    "date": "28 September 2016",
+    "name": "Vanished:  Left Behind Next Gen",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00003201?width=121&height=180",
+    "timing": [
+      "07:00 PM"
+    ]
+  },
+  "27": {
     "date": "23 October 2016",
     "name": "The Shining",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002932?width=121&height=180",
+    "timing": [
+      "02:00 PM",
+      "07:00 PM"
+    ]
+  },
+  "28": {
+    "date": "27 November 2016",
+    "name": "Breakfast At Tiffany's",
+    "url": "tix2.galaxytheatres.com/CDN/Image/Entity/FilmPosterGraphic/h-HO00002933?width=121&height=180",
     "timing": [
       "02:00 PM",
       "07:00 PM"
